@@ -32,3 +32,6 @@ To better understand the data before building a model, I performed Exploratory D
 8. **VIII.** Edge density for each class (comparing texture and noise)
 9. **IX.** Average RGB Channel Values per Class
 10. **X.** Image Sharpness using a boxplot (since AI-generated images are generally too smooth)
+
+### how to open?:
+- on the upper left corner of the code there is a button **"open in colab"** click that to directly open the whole project in colab and run the code cells.
