@@ -1,6 +1,6 @@
 # First-Colab
 
-*Note: This README is formatted by AG agent.*
+
 
 This is my very first project on Google Colab! 
 
