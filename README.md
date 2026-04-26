@@ -1,6 +1,6 @@
 # First-Colab
 
-*Note: This README is formatted and designed by an AI to give it a clean and professional look.*
+*Note: This README is formatted by AG agent.*
 
 This is my very first project on Google Colab! 
 
